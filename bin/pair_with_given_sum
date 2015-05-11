@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'pair_with_given_sum'
+
+PairWithGivenSum.run(ARGV[0], ARGV[1].to_i)
