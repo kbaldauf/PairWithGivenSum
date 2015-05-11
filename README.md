@@ -1,7 +1,7 @@
 PairWithGivenSum
 ==================
 
-This gem takes an intger array and an integer and reutrn as pair from the array whose sum is equal to the integer.
+This gem takes an integer array and an integer and returns a pair from the array whose sum is equal to the integer.
 
 Getting Started
 =====
